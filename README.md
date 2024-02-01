@@ -44,3 +44,6 @@ The Disaster Management System is a comprehensive solution that integrates AI te
 ![Alt Text](preview_images/Page-7.png)
 ![Alt Text](preview_images/Page-8.png)
 ![Alt Text](preview_images/Page-9.png)
+![Alt Text](preview_images/Page-10.png)
+![Alt Text](preview_images/Page-11.png)
+![Alt Text](preview_images/Page-12.png)
