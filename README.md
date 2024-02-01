@@ -33,4 +33,14 @@ The Disaster Management System is a comprehensive solution that integrates AI te
    - Supports decision-makers in developing effective long-term recovery strategies based on data-driven insights.
 
 
-### Website Overview
+### Website Preview
+
+![Alt Text](preview_images/Page-1.png)
+![Alt Text](preview_images/Page-2.png)
+![Alt Text](preview_images/Page-3.png)
+![Alt Text](preview_images/Page-4.png)
+![Alt Text](preview_images/Page-5.png)
+![Alt Text](preview_images/Page-6.png)
+![Alt Text](preview_images/Page-7.png)
+![Alt Text](preview_images/Page-8.png)
+![Alt Text](preview_images/Page-9.png)
